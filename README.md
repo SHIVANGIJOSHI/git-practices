@@ -1,4 +1,2 @@
-# practice
-its just made to practice
-fun with tracking branches
+I made this repository while learning git ,now i want to share it to enhance my knowledge...
 
