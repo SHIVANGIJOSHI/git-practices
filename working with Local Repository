@@ -1,0 +1,24 @@
+**working with Local Repository**
+1.git init
+2.git clone <url> <dir>
+3.git status
+4.git add
+5.git commit -m "messaga"
+6.git log
+7.git log --oneline
+8.git log --oneline-graph-all
+9.git tag -a -m tag
+10.git tag -d tag
+11.git branch [branch-name]
+12.git checkout [branch-name]
+13.git branch -b [branch-name]
+14.git merge [branch]
+15.git branch -d [branch-name]
+16.git reset [commit]
+17.git reset --hard [commit]
+18.git show [commit]
+19.git merge --no-ff [branch-name]
+20.git merge --abort
+21.git commit --amend -m "message"
+22.git rebase [branch-name]
+23.git rebase --continue

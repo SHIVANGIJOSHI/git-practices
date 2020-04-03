@@ -1,0 +1,6 @@
+**working with remote branches**
+1.git pull
+2.git push
+3.git merge
+4.git fetch
+5.git diff [first-branch]...[second-branch]

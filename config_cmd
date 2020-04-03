@@ -1,0 +1,11 @@
+**git configuration commands**
+1. git --version
+2. git 
+3.git help
+4.git config user.name
+5.git config --global user.name "Your Name"
+6.git config user.email
+7.git config --global user.email "your@email"
+8.git config core.editor
+9.git config --global core.editor your_preferred_editor
+10.git config --list
